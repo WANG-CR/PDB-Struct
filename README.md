@@ -4,4 +4,4 @@ Source code of the paper "PDB-Struct: A Comprehensive Benchmark for Structure-ba
 
 Part of the code is missing due to the cleaning of the cluster's scratch folder. I am currently working on rebuilding the codebase. 
 
-The dataset will be released this week.
+[Access to the dataset](https://drive.google.com/drive/folders/1SrAFt_Ujn-3d-ki_j0yx8-2QwtKPMDpd?usp=sharing)
